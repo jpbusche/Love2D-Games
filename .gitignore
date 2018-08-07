@@ -45,4 +45,5 @@ luac.out
 .DS_Store
 ._*
 bin/
+*.love
 
